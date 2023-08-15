@@ -1,1 +1,2 @@
-# Simple-Chatbot
+A chatbot is a software or computer program that simulates human conversation or "chatter" through text interactions.
+Users in both business-to-consumer (B2C) and business-to-business (B2B) environments increasingly use chatbot virtual assistants to handle simple tasks. Adding chatbot assistants reduces overhead costs, uses support staff time better and enables organizations to provide customer service during hours when live agents aren't available.
